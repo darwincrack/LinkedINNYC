@@ -1,0 +1,61 @@
+
+
+.site-header {
+    background-color: rgba(0, 0, 0, .85);
+    -webkit-backdrop-filter: saturate(180%) blur(20px);
+    backdrop-filter: saturate(180%) blur(20px);
+}
+
+.site-header a {
+    color: #999;
+    transition: ease-in-out color .15s;
+}
+
+.jumbotron {
+    background-color: white;
+
+}
+
+nav{
+        height: 80px;
+}
+nav img {
+    width: 40px;
+}
+
+
+        .panel-title {
+        display: inline;
+        font-weight: bold;
+        }
+        .display-table {
+            display: table;
+        }
+        .display-tr {
+            display: table-row;
+        }
+        .display-td {
+            display: table-cell;
+            vertical-align: middle;
+            width: 61%;
+        }
+
+        .error.visible {
+    color: red;
+    text-align: center;
+}
+
+.success {
+    color: green;
+}
+
+.jumbotron p {
+
+    font-size: 15px;
+
+}
+
+span.text-danger{
+     color: #FF71FF;
+}
+
