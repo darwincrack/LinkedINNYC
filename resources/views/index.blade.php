@@ -18,7 +18,7 @@
     <main role="main" class="container">
     <div class="jumbotron">
         <h3>Contact Information</h3>
-        <p>Mandatory fields are marked with an asterisk {{env('STRIPE_SECRET')}}</p>
+        <p>Mandatory fields are marked with an asterisk </p>
 
 
        @if (count($errors) > 0)
